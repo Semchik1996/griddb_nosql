@@ -1,0 +1,8 @@
+var MyObject = {
+    "Name" : "Simon",
+    "Age"  :  23,
+    "Hair" : "light brown"
+};
+
+var nameOfAge = MyObject.name;
+alert(nameofAge);
